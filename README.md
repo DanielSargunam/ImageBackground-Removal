@@ -8,11 +8,10 @@ This API provides image foreground segmentation with consequent background remov
 
 • Image hosting module 
 
-• RapidApi (https://rapidapi.com/)
 
 # Configuration
 
-• Create an account on the RapidAPI Layer (https://rapidapi.com/) and subscribe to the BackGround Removal by API 4 AI category from the API market place (https://rapidapi.com/api4ai-api4ai-default/api/background-removal4)
+• Create an account on the RapidAPI Layer and subscribe to the BackGround Removal by API 4 AI category from the API market place (https://rapidapi.com/api4ai-api4ai-default/api/background-removal4)
 
 • Collect the API Key for your RapidAPI account
 
